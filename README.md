@@ -1,10 +1,12 @@
-# 宝宝动漫
+# ABC动画
 
-[下载 Android TV 安装包 · v0.1.69](https://github.com/suqianqiu/baby-anime/releases/download/v0.1.69/BabyAnime-0.1.69.apk) · [全部版本](https://github.com/suqianqiu/baby-anime/releases) · [操作手册](docs/USER_GUIDE.md) · [问题反馈](https://github.com/suqianqiu/baby-anime/issues/new/choose)
+<p align="center"><img src="assets/branding/abc-logo.png" width="240" alt="ABC动画 · 小狐狸学英语"></p>
+
+[下载 Android TV 安装包 · v0.1.70](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.70/ABCAnimation-0.1.70.apk) · [全部版本](https://github.com/suqianqiu/abc-animation/releases) · [操作手册](docs/USER_GUIDE.md) · [问题反馈](https://github.com/suqianqiu/abc-animation/issues/new/choose)
 
 **让孩子容易找到喜欢的内容，让家长更方便地安排观看。**
 
-宝宝动漫是一款面向 Android TV 的家庭动画管理与观看应用，以英语启蒙和亲子陪伴为主要方向。家长可以结合孩子的年龄与英语基础选片，管理下载、查看播放历史，并设置每日可用时长。
+ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以英语启蒙和亲子陪伴为主要方向。家长可以结合孩子的年龄与英语基础选片，管理下载、查看播放历史，并设置每日可用时长。
 
 本项目用于个人学习、产品交流与家庭场景探索，**不以营利为目的**。
 
@@ -28,11 +30,11 @@
 | 下载管理 | 查看任务，批量暂停、继续、重试或取消；已下载文件可打开播放、批量管理。 |
 | 本地观看 | 下载完成后播放，保存进度；下一集已下载时可连续播放。音轨、字幕以具体文件提供的内容为准。 |
 | 最近历史 | 按日期展示最近观看的节目，每个节目只显示最近一次，方便继续播放。 |
-| 家长控制 | 管理宝宝档案、节目显示、每日时长和倒计时，相关设置需要家长验证。 |
+| 家长控制 | 管理宝宝档案、节目显示；用小时／分钟双列拨盘设置每日时长，支持倒计时显示，相关设置需要家长验证。 |
 
 ## 页面预览
 
-以下是 0.1.69 的实际页面截图。部分页面使用演示档案、播放记录或下载状态，不代表默认设置、内容授权或对具体节目的推荐。
+以下是 0.1.70 的实际页面截图。部分页面使用演示档案、播放记录或下载状态，不代表默认设置、内容授权或对具体节目的推荐。
 
 | 首页 | 全部节目 |
 | --- | --- |
@@ -50,7 +52,7 @@
 2. 由家长进入“设置 → 家长设置”，检查年龄、英语基础、节目显示和每日时长。
 3. 选择有合法使用权限的内容，按需要下载；下载完成后打开观看。
 
-安装包请从[正式发布页](https://github.com/suqianqiu/baby-anime/releases/tag/v0.1.69)下载，首次使用建议先阅读[操作手册](docs/USER_GUIDE.md)。
+安装包请从[正式发布页](https://github.com/suqianqiu/abc-animation/releases/tag/v0.1.70)下载，首次使用建议先阅读[操作手册](docs/USER_GUIDE.md)。
 
 ## 使用边界与项目声明
 
@@ -63,10 +65,10 @@
 
 ## 问题反馈与联系
 
-如发现使用问题，或认为项目涉及的内容影响了您的合法权益，**请及时通过[本项目的 GitHub Issues](https://github.com/suqianqiu/baby-anime/issues/new/choose)联系维护者**。请提供涉及页面或内容、问题说明及必要的权属线索，维护者会核实并在需要时调整或移除相关材料。
+如发现使用问题，或认为项目涉及的内容影响了您的合法权益，**请及时通过[本项目的 GitHub Issues](https://github.com/suqianqiu/abc-animation/issues/new/choose)联系维护者**。请提供涉及页面或内容、问题说明及必要的权属线索，维护者会核实并在需要时调整或移除相关材料。
 
 反馈时请勿公开账号凭据、登录二维码、儿童姓名等敏感信息；涉及个人信息的材料请先脱敏。
 
 ---
 
-本文档适用于 **0.1.69**。实际功能以所安装版本和设备显示为准。
+本文档适用于 **0.1.70**。实际功能以所安装版本和设备显示为准。
