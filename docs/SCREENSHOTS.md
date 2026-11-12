@@ -2,7 +2,7 @@
 
 [返回产品首页](../README.md) · [操作手册](USER_GUIDE.md)
 
-以下均为 **0.1.71 实际运行画面**，使用演示档案、播放记录和本地内容状态。示例节目只用于介绍页面操作，不表示内容授权、官方合作或默认推荐；实际显示以设备配置及版本为准。
+以下均为 **0.1.72 实际运行画面**，使用演示档案、播放记录和本地内容状态。示例节目只用于介绍页面操作，不表示内容授权、官方合作或默认推荐；实际显示以设备配置及版本为准。
 
 [查看家长管控功能示意海报](PARENTAL_CONTROLS.md#功能点示意海报)；海报插画与下面的真实截图分开提供。
 
@@ -44,7 +44,7 @@
 
 ## 设置入口
 
-下载管理可直接进入，家长设置需要验证。
+下载管理可直接进入；家长密码可选设置，已设置时进入家长设置需要验证。
 
 ![设置入口](../assets/screenshots/06-settings.png)
 
@@ -121,3 +121,19 @@
 ![答对2/3题，获得10分钟](../assets/screenshots/22-quiz-passed.png)
 
 ![通过后从原进度继续播放](../assets/screenshots/25-quiz-resumed.png)
+
+## 导航边界与可选家长密码
+
+顶部四个标签在左右边界停住，“添加节目”左右不自动跳行，上下照常切换区域。
+
+![导航和添加节目按钮](../assets/screenshots/26-navigation-boundary.png)
+
+首次进入家长设置可选择设置密码，也可暂不设置。下列截图使用演示档案；密码输入内容不会展示。
+
+![首次进入的密码引导](../assets/screenshots/27-password-onboarding.png)
+
+![跳过后显示未设置，可随时补设](../assets/screenshots/28-password-skipped.png)
+
+![设置密码后的家长设置](../assets/screenshots/29-password-configured.png)
+
+![再次进入时验证已设置的密码](../assets/screenshots/30-password-verify.png)

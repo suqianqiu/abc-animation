@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/branding/abc-logo.png" width="240" alt="ABC动画 · 小狐狸学英语"></p>
 
-[下载 Android TV 安装包 · v0.1.71](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.71/ABCAnimation-0.1.71.apk) · [全部版本](https://github.com/suqianqiu/abc-animation/releases) · [操作手册](docs/USER_GUIDE.md) · [问题反馈](https://github.com/suqianqiu/abc-animation/issues/new/choose)
+[下载 Android TV 安装包 · v0.1.72](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.72/ABCAnimation-0.1.72.apk) · [全部版本](https://github.com/suqianqiu/abc-animation/releases) · [操作手册](docs/USER_GUIDE.md) · [问题反馈](https://github.com/suqianqiu/abc-animation/issues/new/choose)
 
 **让孩子容易找到喜欢的内容，让家长更方便地安排观看。**
 
@@ -30,10 +30,15 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 | 下载管理 | 查看任务，批量暂停、继续、重试或取消；已下载文件可打开播放、批量管理。 |
 | 本地观看 | 下载完成后播放，保存进度；下一集已下载时可连续播放。音轨、字幕以具体文件提供的内容为准。 |
 | 最近历史 | 按日期展示最近观看的节目，每个节目只显示最近一次，方便继续播放。 |
-| 家长控制 | 管理宝宝档案、节目显示；用小时／分钟双列拨盘设置每日时长，支持倒计时显示，相关设置需要家长验证。 |
+| 家长控制 | 管理宝宝档案、节目显示；用小时／分钟双列拨盘设置每日时长，支持倒计时显示，设置密码后，相关管理操作需要验证。 |
 | 答题续看 | 自定通过门槛与续看时间，选择题库，独立开启随机出题和错题复习。 |
 
-## 0.1.71 新增：答题续看
+## 0.1.72 更新
+
+- 顶部导航左右到头停住；“添加节目”左右也停留在当前按钮，不会自动跳到另一行。
+- 默认没有家长密码。首次进入家长设置会提示设置，也可选“暂不设置”；之后可随时补设，已有密码保留。
+
+## 答题续看
 
 家长可以设置“每轮 X 题、至少答对 Y 题、续看 Z 分钟”，选择学前至小学六年级的题库、科目和题型，并独立开关随机出题与错题加权。
 
@@ -43,13 +48,13 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 
 [查看家长管控功能说明](docs/PARENTAL_CONTROLS.md) · [按步骤设置](docs/USER_GUIDE.md#10-解锁答题与续看)
 
-<p align="center"><img src="assets/posters/parental-controls-v0.1.71.png" width="700" alt="ABC动画家长管控功能示意海报"></p>
+<p align="center"><img src="assets/posters/parental-controls-v0.1.72.png" width="700" alt="ABC动画家长管控功能示意海报"></p>
 
-海报为功能示意，数字采用演示规则，实际设置由家长决定。[下载海报原图](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.71/ABCAnimation-Parental-Controls-v0.1.71.png)。
+海报为功能示意，数字采用演示规则，实际设置由家长决定。[下载海报原图](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.72/ABCAnimation-Parental-Controls-v0.1.72.png)。
 
 ## 页面预览
 
-以下是 0.1.71 的实际页面截图。部分页面使用演示档案、播放记录或下载状态，不代表默认设置、内容授权或对具体节目的推荐。
+以下是 0.1.72 的实际页面截图。部分页面使用演示档案、播放记录或下载状态，不代表默认设置、内容授权或对具体节目的推荐。
 
 | 首页 | 全部节目 |
 | --- | --- |
@@ -69,7 +74,7 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 
 本版内置离线题目和朗读，安装包约 **173 MB**，请预留安装与内容下载所需空间。
 
-安装包请从[正式发布页](https://github.com/suqianqiu/abc-animation/releases/tag/v0.1.71)下载，首次使用建议先阅读[操作手册](docs/USER_GUIDE.md)。
+安装包请从[正式发布页](https://github.com/suqianqiu/abc-animation/releases/tag/v0.1.72)下载，首次使用建议先阅读[操作手册](docs/USER_GUIDE.md)。
 
 ## 使用边界与项目声明
 
@@ -88,4 +93,4 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 
 ---
 
-本文档适用于 **0.1.71**。实际功能以所安装版本和设备显示为准。
+本文档适用于 **0.1.72**。实际功能以所安装版本和设备显示为准。
