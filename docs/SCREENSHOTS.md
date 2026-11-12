@@ -2,7 +2,9 @@
 
 [返回产品首页](../README.md) · [操作手册](USER_GUIDE.md)
 
-以下均为 **0.1.70 实际运行画面**，使用演示档案、播放记录和本地内容状态。示例节目只用于介绍页面操作，不表示内容授权、官方合作或默认推荐；实际显示以设备配置及版本为准。
+以下均为 **0.1.71 实际运行画面**，使用演示档案、播放记录和本地内容状态。示例节目只用于介绍页面操作，不表示内容授权、官方合作或默认推荐；实际显示以设备配置及版本为准。
+
+[查看家长管控功能示意海报](PARENTAL_CONTROLS.md#功能点示意海报)；海报插画与下面的真实截图分开提供。
 
 ## 首页
 
@@ -48,7 +50,7 @@
 
 ## 家长设置
 
-集中管理档案、节目显示、时长与登录。
+集中管理档案、节目显示、时长、解锁答题与登录。
 
 ![家长设置](../assets/screenshots/11-parents.png)
 
@@ -89,3 +91,33 @@
 ![分集上的新完成标记](../assets/screenshots/15-episode-new.png)
 
 [观看下载角标与完成提醒的界面演示](../assets/demo/download-status.mp4)
+
+## 解锁答题：两个设置入口
+
+家长设置内的入口始终可见，也可从时长与倒计时进入。截图使用已开启的演示配置，功能默认关闭。
+
+![时长与倒计时中的解锁答题入口](../assets/screenshots/23-quiz-timer-entry.png)
+
+## 题库与答题规则
+
+示例选择小学一年级、五科混合，3题至少对2题，续看10分钟。
+
+![题库年龄、科目与题型](../assets/screenshots/17-quiz-settings.png)
+
+![每轮题数、正确门槛与续看时间](../assets/screenshots/18-quiz-rules.png)
+
+![每日次数、每次尝试、随机与错题加权](../assets/screenshots/19-quiz-sampling.png)
+
+## 到时暂停、答题与继续观看
+
+到时页面与续播画面使用短时长演示；配置和通过页展示10分钟规则。截图数字仅用于说明各页面，并非同一轮的连续录屏。
+
+![时间用完后的入口](../assets/screenshots/24-quiz-expired.png)
+
+![选择答案并提交](../assets/screenshots/20-quiz-question.png)
+
+![答案反馈和讲解](../assets/screenshots/21-quiz-feedback.png)
+
+![答对2/3题，获得10分钟](../assets/screenshots/22-quiz-passed.png)
+
+![通过后从原进度继续播放](../assets/screenshots/25-quiz-resumed.png)
