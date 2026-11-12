@@ -2,7 +2,7 @@
 
 [返回产品首页](../README.md) · [操作手册](USER_GUIDE.md)
 
-以下均为 **0.1.73 实际运行画面**，使用演示档案、播放记录和本地内容状态。示例节目只用于介绍页面操作，不表示内容授权、官方合作或默认推荐；实际显示以设备配置及版本为准。
+以下均为 **0.1.74 实际运行画面**，使用演示档案、播放记录和本地内容状态。示例节目只用于介绍页面操作，不表示内容授权、官方合作或默认推荐；实际显示以设备配置及版本为准。
 
 [查看家长管控功能示意海报](PARENTAL_CONTROLS.md#功能点示意海报)；海报插画与下面的真实截图分开提供。
 
@@ -137,3 +137,17 @@
 ![设置密码后的家长设置](../assets/screenshots/29-password-configured.png)
 
 ![再次进入时验证已设置的密码](../assets/screenshots/30-password-verify.png)
+
+## 版本更新（0.1.74）
+
+以下新版本提示、下载及安装引导截图为受控升级演示，展示从旧版本升级至0.1.74的过程；不代表发布后仍有下一版本可用。系统授权和确认页面来自Android TV模拟器，其他电视可能不同。
+
+| 页面 | 截图 |
+| --- | --- |
+| 当前版本与手动检查 | ![当前版本](../assets/screenshots/31-update-current.png) |
+| 发现新版本 | ![新版本说明](../assets/screenshots/32-update-available.png) |
+| 下载进度 | ![下载更新](../assets/screenshots/33-update-downloading.png) |
+| 下载暂停与继续 | ![继续下载](../assets/screenshots/34-update-paused.png) |
+| 首次安装引导 | ![授权引导](../assets/screenshots/35-update-permission-guide.png) |
+| 电视系统授权 | ![系统授权](../assets/screenshots/36-update-system-permission.png) |
+| 系统覆盖安装确认 | ![安装确认](../assets/screenshots/37-update-system-confirmation.png) |
