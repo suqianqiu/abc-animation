@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/branding/abc-logo.png" width="240" alt="ABC动画 · 小狐狸学英语"></p>
 
-[下载电视版 · 58.0 MB](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.74/ABCAnimation-TV-0.1.74.apk) · [下载通用版 · 81.8 MB](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.74/ABCAnimation-0.1.74.apk) · [全部版本](https://github.com/suqianqiu/abc-animation/releases) · [操作手册](docs/USER_GUIDE.md) · [问题反馈](https://github.com/suqianqiu/abc-animation/issues/new/choose)
+[下载电视版 · 58.0 MB](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.76/ABCAnimation-TV-0.1.76.apk) · [下载通用版 · 81.8 MB](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.76/ABCAnimation-0.1.76.apk) · [全部版本](https://github.com/suqianqiu/abc-animation/releases) · [操作手册](docs/USER_GUIDE.md) · [问题反馈](https://github.com/suqianqiu/abc-animation/issues/new/choose)
 
 **让孩子容易找到喜欢的内容，让家长更方便地安排观看。**
 
@@ -34,6 +34,17 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 | 版本更新 | 每天后台检查，也可由家长手动检查、下载并按系统提示升级。 |
 | 答题续看 | 自定通过门槛与续看时间，选择题库，独立开启随机出题和错题复习。 |
 
+## 0.1.76 更新
+
+- **焦点行居中**：首页上下选行时保持焦点海报居中，首尾按边界停住，快速连按跟随最新选择。
+- **微鲸旧系统滚动**：系统关闭动画时仍保留应用内连续滚动，不修改电视全局设置。
+- **家长设置更整齐**：九个入口统一为3×3图标按钮，16dp间距，整页无需滚动。
+- **合并0.1.75弹窗优化**：按钮至少120×48dp，长内容内部滚动，底部操作区保持可见。
+
+微鲸和AM9 Pro最终各56项通过；通用版完成与电视版代码/资源一致性及签名验证。具体范围和限制见[更新日志](docs/CHANGELOG.md)。
+
+![家长设置3×3图标按钮](assets/screenshots/39-parents-v076.png)
+
 ## 0.1.74 更新
 
 - 每天首次打开应用时，在后台检查正式新版本；有更新时提示家长，不影响本地观看。
@@ -59,7 +70,7 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 
 ## 页面预览
 
-以下为核心页面截图，版本更新相关截图新增于0.1.74。部分页面使用演示档案、播放记录或下载状态，不代表默认设置、内容授权或对具体节目的推荐。
+以下为核心页面截图；新增0.1.76实机首页及家长设置截图，其他页面沿用已标注版本的演示画面。部分页面使用演示档案、播放记录或下载状态，不代表默认设置、内容授权或对具体节目的推荐。
 
 | 首页 | 全部节目 |
 | --- | --- |
@@ -86,7 +97,7 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 
 两版功能和播放格式支持相同；不确定设备类型时可选择通用版。旧版本可覆盖升级，保留已有登录、密码、设置和下载内容。
 
-安装包请从[正式发布页](https://github.com/suqianqiu/abc-animation/releases/tag/v0.1.74)下载，首次使用建议先阅读[操作手册](docs/USER_GUIDE.md)。
+安装包请从[正式发布页](https://github.com/suqianqiu/abc-animation/releases/tag/v0.1.76)下载，首次使用建议先阅读[操作手册](docs/USER_GUIDE.md)。
 
 ## 使用边界与项目声明
 
@@ -105,4 +116,4 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 
 ---
 
-本文档适用于 **0.1.74**。实际功能以所安装版本和设备显示为准。
+本文档适用于 **0.1.76**。实际功能以所安装版本和设备显示为准。

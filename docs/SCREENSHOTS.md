@@ -2,7 +2,7 @@
 
 [返回产品首页](../README.md) · [操作手册](USER_GUIDE.md)
 
-以下均为 **0.1.74 实际运行画面**，使用演示档案、播放记录和本地内容状态。示例节目只用于介绍页面操作，不表示内容授权、官方合作或默认推荐；实际显示以设备配置及版本为准。
+新增章节为0.1.75–0.1.76实机画面，其余沿用0.1.74演示画面；各节标注版本。示例节目只用于介绍页面操作，不表示内容授权、官方合作或默认推荐；实际显示以设备配置及版本为准。
 
 [查看家长管控功能示意海报](PARENTAL_CONTROLS.md#功能点示意海报)；海报插画与下面的真实截图分开提供。
 
@@ -151,3 +151,17 @@
 | 首次安装引导 | ![授权引导](../assets/screenshots/35-update-permission-guide.png) |
 | 电视系统授权 | ![系统授权](../assets/screenshots/36-update-system-permission.png) |
 | 系统覆盖安装确认 | ![安装确认](../assets/screenshots/37-update-system-confirmation.png) |
+
+## 首页与家长设置（0.1.76，微鲸实机）
+
+![焦点行居中](../assets/screenshots/38-home-centered-v076.png)
+
+![家长设置等尺寸图标按钮](../assets/screenshots/39-parents-v076.png)
+
+## 弹窗（0.1.75，合并至0.1.76，微鲸实机）
+
+![确认与取消](../assets/screenshots/40-dialog-confirm-v075.png)
+
+![长内容内部滚动](../assets/screenshots/41-dialog-long-v075.png)
+
+![时长选择](../assets/screenshots/42-dialog-duration-v075.png)
