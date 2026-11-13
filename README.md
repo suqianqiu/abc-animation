@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/branding/abc-logo.png" width="240" alt="ABC动画 · 小狐狸学英语"></p>
 
-[下载电视版 · 58.0 MB](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.76/ABCAnimation-TV-0.1.76.apk) · [下载通用版 · 81.8 MB](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.76/ABCAnimation-0.1.76.apk) · [全部版本](https://github.com/suqianqiu/abc-animation/releases) · [操作手册](docs/USER_GUIDE.md) · [问题反馈](https://github.com/suqianqiu/abc-animation/issues/new/choose)
+[下载电视版 · 58.0 MB](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.77/ABCAnimation-TV-0.1.77.apk) · [下载通用版 · 81.8 MB](https://github.com/suqianqiu/abc-animation/releases/download/v0.1.77/ABCAnimation-0.1.77.apk) · [全部版本](https://github.com/suqianqiu/abc-animation/releases) · [操作手册](docs/USER_GUIDE.md) · [问题反馈](https://github.com/suqianqiu/abc-animation/issues/new/choose)
 
 **让孩子容易找到喜欢的内容，让家长更方便地安排观看。**
 
@@ -33,6 +33,12 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 | 家长控制 | 管理宝宝档案、节目显示；用小时／分钟双列拨盘设置每日时长，支持倒计时显示，设置密码后，相关管理操作需要验证。 |
 | 版本更新 | 每天后台检查，也可由家长手动检查、下载并按系统提示升级。 |
 | 答题续看 | 自定通过门槛与续看时间，选择题库，独立开启随机出题和错题复习。 |
+
+## 0.1.77 更新：旧电视升级证书兼容
+
+修复Android 5.0缺少升级服务器根证书、导致无法检查新版本的问题；保留HTTPS证书链及域名校验。微鲸实机网络诊断已取得版本信息和APK分片。
+
+**原版0.1.74–0.1.76若已无法检查更新，需要先从电脑下载0.1.77覆盖安装一次。** 补证书不代表国内网络一定可达，目前没有国内备用更新源。[兼容说明与验证边界](docs/UPDATE_COMPATIBILITY.md)。
 
 ## 0.1.76 更新
 
@@ -97,7 +103,7 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 
 两版功能和播放格式支持相同；不确定设备类型时可选择通用版。旧版本可覆盖升级，保留已有登录、密码、设置和下载内容。
 
-安装包请从[正式发布页](https://github.com/suqianqiu/abc-animation/releases/tag/v0.1.76)下载，首次使用建议先阅读[操作手册](docs/USER_GUIDE.md)。
+安装包请从[正式发布页](https://github.com/suqianqiu/abc-animation/releases/tag/v0.1.77)下载，首次使用建议先阅读[操作手册](docs/USER_GUIDE.md)。
 
 ## 使用边界与项目声明
 
@@ -116,4 +122,4 @@ ABC动画是一款面向 Android TV 的家庭动画管理与观看应用，以�
 
 ---
 
-本文档适用于 **0.1.76**。实际功能以所安装版本和设备显示为准。
+本文档适用于 **0.1.77**。实际功能以所安装版本和设备显示为准。
